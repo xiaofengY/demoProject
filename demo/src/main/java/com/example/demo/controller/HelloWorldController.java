@@ -23,7 +23,7 @@ public class HelloWorldController {
 	@GetMapping(value="add",consumes="application/json")
 	public String add() {
 		String name="jeckey";
-		int age=20;
+		int age=21;
 		return "";
 	}
 	/**
